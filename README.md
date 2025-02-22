@@ -27,6 +27,6 @@ This project visualizes the N-Queens puzzle solution using a recursive algorithm
 
 ## Live Demo
 
-<p align='center'>You can find the website live <a href="">here</a></p>
+<p align='center'>You can find the website live <a href="https://n-queen-puzzle-two.vercel.app/">here</a></p>
 
 ![N-Queen-visualisation](visualisation.gif)
